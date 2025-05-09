@@ -1,0 +1,56 @@
+# 📊 Amazon Sales Data Analysis Dashboard
+
+This project is a complete Excel-based sales data analysis and dashboard built using Amazon product sales records. It provides key performance insights, regional breakdowns, and top product metrics using Microsoft Excel's data processing capabilities.
+
+---
+
+## 📁 File Included
+
+- **`9. Amazon sales Data (Data dashboard).xlsx`**  
+  A multi-sheet Excel file containing raw sales data, backend calculations, and an interactive dashboard.
+
+---
+
+## 🗂️ Sheet Overview
+
+### 1. `Sales Data`
+- Raw transactional data including:
+  - **Date**, **Sales Representative**, **Product**, **Units**, **Price**, and **Total Sales**
+  - Geographical fields: **City**, **State**, and **Region**
+  - **Weekday** for time-based analysis
+
+### 2. `Final Working`
+- Backend sheet with analytical summaries:
+  - **KPI Table** (Actual vs Target Sales)
+  - **Top Products by Units Sold**
+  - **Sales by State and City**
+- Acts as the data source for dashboard visuals
+
+### 3. `Dashboard`
+- Interactive visuals (within Excel):
+  - Total Sales KPIs
+  - Product sales performance
+  - Regional sales trends
+- Charts and slicers are embedded for data exploration
+
+---
+
+## ✅ Key Features
+
+- Clean and organized sales data structure
+- KPI benchmarking with targets
+- Regional sales comparison
+- Product-level performance tracking
+- User-friendly and interactive Excel dashboard
+
+---
+
+## 🛠️ Tools Used
+
+- **Microsoft Excel**
+  - Pivot Tables.
+  - Data Formatting & Filters.
+  - Excel Formulas (SUMIF, VLOOKUP, etc.).
+  - Conditional Formatting.
+  - Embedded Charts and Slicers.
+
